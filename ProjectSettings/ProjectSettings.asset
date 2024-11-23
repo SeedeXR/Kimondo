@@ -551,6 +551,9 @@ PlayerSettings:
   - serializedVersion: 3
     m_BuildTarget: Android
     m_Formats: 03000000
+  - serializedVersion: 3
+    m_BuildTarget: WebGL
+    m_Formats: 05000000
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
   actionOnDotNetUnhandledException: 1
@@ -933,7 +936,7 @@ PlayerSettings:
   cloudProjectId: 14696446-a735-4f4f-ad1f-b29b732b1ea4
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Mbozi RUN
+  projectName: Kimondo
   organizationId: seede
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
